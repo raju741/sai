@@ -17,6 +17,10 @@ public class Demo_class {
 		public void mat() {
 			System.out.println("bb");
 		}
+		
+		public void bat() {
+			System.out.println("mm");
+		}
 
 	}
 
