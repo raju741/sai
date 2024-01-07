@@ -18,10 +18,7 @@ public class Demo_class {
 			System.out.println("bb");
 		}
 		
-		public void bat() {
-			System.out.println("mm");
-		}
-
+		
 	}
 
 
