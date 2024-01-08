@@ -17,6 +17,8 @@ public class Demo_class {
 		public void mat() {
 			System.out.println("bb");
 		}
+	public void cat(){
+		System.out.println("mm");
 		
 		
 		
