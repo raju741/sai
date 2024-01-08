@@ -17,4 +17,9 @@ public class Demo_class {
 		public void mat() {
 			System.out.println("bb");
 		}
+
+public void dd() {
+	System.out.println("mmmm");
+}
+
 }
