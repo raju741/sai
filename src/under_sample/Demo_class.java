@@ -17,14 +17,4 @@ public class Demo_class {
 		public void mat() {
 			System.out.println("bb");
 		}
-
-		
-<<<<<<< HEAD
-=======
-		
-
->>>>>>> b97d9d7fbaadf741a1b9896c66058758fb3c3fca
-	}
 }
-
-
