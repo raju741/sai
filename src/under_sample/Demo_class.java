@@ -19,7 +19,7 @@ public class Demo_class {
 		}
 
 public void dd() {
-	System.out.println("mmmm");
+	System.out.println("ddmm");
 }
 
 }
