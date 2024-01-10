@@ -19,7 +19,7 @@ public class Demo_class {
 		}
 
 public void dd() {
-	System.out.println("pavan");
+	System.out.println("venky");
 }
 
 }
